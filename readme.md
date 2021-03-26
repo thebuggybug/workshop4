@@ -11,3 +11,9 @@
 > Senoris
 
 # gitignore.io
+
+> hola
+
+git add -p 
+
+git checkout -b html -- changing branch
