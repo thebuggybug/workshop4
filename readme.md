@@ -15,5 +15,11 @@
 > hola
 
 git add -p 
+(partial add) for stagging
 
-git checkout -b html -- changing branch
+git checkout -b html 
+-- for creating changing branch
+
+git checkout master
+
+fish
